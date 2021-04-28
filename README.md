@@ -2,17 +2,8 @@
 
 ## Part 1 Data Visualization
 
-file: visualization.ipynb
+jupyter notebook file: visualization.ipynb
 
-### functions:
-* show_indiv_progress_byday()
-* show_indiv_trend_bytime()
-* show_monthly_mean()
-* show_monthly_count()
-* show_time_trend_mean()
-* show_time_trend_count()
-* progress_by_length()
-* progress_by_severeness(0, 6)
-* retainment()
+## Part 2 SQL
 
-
+files: sql_q1.sql, sql_q2.sql, sql_q3.sql
