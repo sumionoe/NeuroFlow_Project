@@ -2,7 +2,7 @@
 
 ## Part 1 Data Visualization
 
-jupyter notebook file: visualization.ipynb
+jupyter notebook file: Visualization.ipynb
 
 ## Part 2 SQL
 
